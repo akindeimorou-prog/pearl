@@ -1,0 +1,6 @@
+{
+  "name": "Pearl Benin Pro",
+  "description": "Système de caisse, facturation et gestion de stock avec synchronisation Cloud en temps réel pour Pearl Benin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
